@@ -1,0 +1,16 @@
+{
+  "name": "steam-auth-poc-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "socket.io": "^4.5.1"
+  },
+  "type": "module"
+}
